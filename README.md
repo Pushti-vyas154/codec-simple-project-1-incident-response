@@ -1,5 +1,5 @@
 # Incident Response Playbook
-Developed as part of Codec Technologies Cybersecurity Internship
+> Developed as part of Codec Technologies Cybersecurity Internship
 
 ### Codec Technologies Internship – Simple Project 1
 
